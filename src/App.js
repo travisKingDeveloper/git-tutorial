@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import logo from './logo.svg';
+import TravisRox from './TravisRox';
 import './App.css';
 
 class App extends Component {
@@ -11,6 +12,10 @@ class App extends Component {
           <p>
             Edit <code>src/App.js</code> and save to reload.
           </p>
+          <TravisRox />
+          <br />
+          <br />
+          <br />
           <a
             className="App-link"
             href="https://reactjs.org"
