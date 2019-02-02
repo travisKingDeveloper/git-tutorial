@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import logo from './logo.svg';
 import TravisRox from './TravisRox';
+import BaileyRox from './BaileyRox';
 import JacobRox from './JacobRox';
 import './App.css';
 
@@ -17,6 +18,7 @@ class App extends Component {
           <br />
           <JacobRox />
           <br />
+          <BaileyRox />
           <br />
           <a
             className="App-link"
