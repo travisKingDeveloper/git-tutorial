@@ -8,19 +8,19 @@ self.__precacheManifest = [
     "url": "/git-tutorial/static/js/runtime~main.5d784825.js"
   },
   {
-    "revision": "cc42a4605f8b3c2b16ad",
-    "url": "/git-tutorial/static/js/main.cc42a460.chunk.js"
+    "revision": "d8b889267ae48798f156",
+    "url": "/git-tutorial/static/js/main.d8b88926.chunk.js"
   },
   {
     "revision": "f03e8ae863144a61c620",
     "url": "/git-tutorial/static/js/1.f03e8ae8.chunk.js"
   },
   {
-    "revision": "cc42a4605f8b3c2b16ad",
+    "revision": "d8b889267ae48798f156",
     "url": "/git-tutorial/static/css/main.c4e55d34.chunk.css"
   },
   {
-    "revision": "28484e744b5f7210f8620fc8d84cb0a9",
+    "revision": "371ff058899cec42d024b17316134ecd",
     "url": "/git-tutorial/index.html"
   }
 ];
